@@ -1,19 +1,20 @@
 <script lang="ts">
-	import { Link } from "svelte-navigator";
+	// import { Link } from "svelte-navigator";
 </script>
 
 <header>
     <nav>
       <ul>
         <li>
-          <Link to="/">home</Link>
+          <a href="/">home</a>
+          <!-- <Link to="/">home</Link> -->
         </li>
-        <li>
+        <!-- <li>
           <Link to="/contact">contact</Link>
         </li>
         <li>
           <Link to="/project">project</Link>
-        </li>
+        </li> -->
       </ul>
     </nav>
 </header>
