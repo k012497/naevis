@@ -117,7 +117,7 @@
       width: 90vmin;
       height: 90vmin;
       transform-style: preserve-3d;
-      background: no-repeat url('./assets/real-earth.png') center/50%;
+      background: no-repeat url('/assets/real-earth.png') center/50%;
       border-radius: 50%;
 
       .floating-object {
