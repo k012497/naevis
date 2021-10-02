@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="ARTWORK" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1321.782 809.751"
+	 style="enable-background:new 0 0 1321.782 809.751;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#0F775E;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#E0E0E0;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FFF2ED;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#47C3F1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FC7EE4;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#EDE73B;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:#DD7800;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{stroke:#000000;stroke-miterlimit:10;}
+	.st11{fill:#FF0000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:url(#SVGID_1_);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:aipgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:aipgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+    <g>
+      <g>
+        <g>
+          <g>
+            <path class="st6" d="M742.656,125.686c0,15.789-12.797,28.585-28.585,28.585c-15.789,0-28.586-12.796-28.586-28.585
+              c0-15.788,12.797-28.586,28.586-28.586C729.859,97.1,742.656,109.898,742.656,125.686z"/>
+          </g>
+          <path class="st3" d="M702.31,127.734c1.334,5.312,6.126,9.25,11.852,9.25c5.725,0,10.518-3.939,11.852-9.25"/>
+          <g>
+            <g>
+              <g>
+                <path d="M722.834,122.086c0.296,0.183,0.686-0.025,0.687-0.373c0-0.003,0-0.005,0-0.008c0-2.086-1.691-3.776-3.777-3.776
+                  c-2.085,0-3.776,1.69-3.776,3.776c0,0.004,0,0.006,0,0.008c0,0.348,0.39,0.557,0.686,0.373
+                  c0.899-0.555,1.956-0.876,3.09-0.876C720.877,121.21,721.934,121.531,722.834,122.086z"/>
+              </g>
+            </g>
+            <g>
+              <g>
+                <path d="M711.669,122.086c0.296,0.183,0.686-0.025,0.687-0.373c0-0.003,0-0.005,0-0.008c0-2.086-1.691-3.776-3.777-3.776
+                  c-2.086,0-3.775,1.69-3.775,3.776c0,0.004,0,0.006,0,0.008c0.001,0.348,0.391,0.557,0.687,0.373
+                  c0.899-0.555,1.956-0.876,3.089-0.876C709.714,121.21,710.772,121.531,711.669,122.086z"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <path class="st10" d="M713.914,88.382c-9.789,0-28.299,1.836-28.299,8.783c0,6.948,18.511,8.784,28.299,8.784
+                c9.787,0,28.298-1.836,28.298-8.784C742.212,90.219,723.701,88.382,713.914,88.382z M713.914,102.41
+                c-16.389,0-24.842-3.674-24.842-5.245c0-0.417,0.619-0.986,1.807-1.591c4.466-4.015,16.247-5.197,23.14-5.197
+                c7.036,0,19.181,1.224,23.427,5.441h-0.048c0.889,0.513,1.357,0.989,1.357,1.347
+                C738.755,98.736,730.303,102.41,713.914,102.41z"/>
+            </g>
+            <g>
+              <path class="st10" d="M737.398,95.818h0.048c-4.246-4.217-16.391-5.441-23.427-5.441c-6.893,0-18.674,1.182-23.14,5.197
+                c3.275-1.675,11.009-3.653,23.035-3.653C726.534,91.921,734.425,94.098,737.398,95.818z"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <path class="st9" d="M790.382,130.752c-8.496,0-15.38,6.885-15.38,15.38c0-8.496-6.885-15.38-15.391-15.38
+            c8.507,0,15.391-6.885,15.391-15.381C775.001,123.867,781.886,130.752,790.382,130.752z"/>
+          <path class="st9" d="M803.738,110.305c-6.246,0-11.308,5.062-11.308,11.308c0-6.246-5.062-11.308-11.317-11.308
+            c6.255,0,11.317-5.062,11.317-11.309C792.43,105.243,797.492,110.305,803.738,110.305z"/>
+        </g>
+        <g>
+          <path class="st8" d="M633.91,89.79l5.806,17.869c0.514,1.583,1.99,2.655,3.654,2.655l18.788,0c3.722,0,5.27,4.763,2.258,6.951
+            l-15.2,11.043c-1.347,0.978-1.91,2.713-1.396,4.296l5.806,17.869c1.15,3.54-2.901,6.484-5.913,4.296l-15.2-11.043
+            c-1.347-0.978-3.17-0.978-4.517,0l-15.2,11.043c-3.011,2.188-7.063-0.756-5.913-4.296l5.806-17.869
+            c0.514-1.583-0.049-3.317-1.396-4.296l-15.2-11.043c-3.011-2.188-1.464-6.951,2.258-6.951l18.788,0
+            c1.665,0,3.14-1.072,3.654-2.655l5.806-17.869C627.751,86.25,632.759,86.25,633.91,89.79z"/>
+          <ellipse class="st0" cx="629.987" cy="129.959" rx="3.402" ry="5.046"/>
+          <path class="st3" d="M630.665,116.123c-0.659,2.392-2.828,4.159-5.43,4.159h-0.873c-2.602,0-4.771-1.767-5.43-4.159"/>
+          <path class="st3" d="M642.058,116.123c-0.659,2.392-2.828,4.159-5.43,4.159h-0.873c-2.602,0-4.771-1.767-5.43-4.159"/>
+        </g>
+      </g>
+    </g>
+			
+
+	</g>
+</switch>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" x="0px" y="0px" viewBox="0 0 1321.782 809.751" style="enable-background:new 0 0 1321.782 809.751;" xml:space="preserve">
+  <style lang="scss">
+    .st0{fill:none;}
+    .st1{fill:#FFF2ED;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    /* .st2{fill:#E7F3FF;stroke:#332DE5;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} */
+    .st3{fill:#E0E0E0;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st4{fill:#FF0000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st5{fill:#EDE73B;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st6{fill:#0F775E;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st7{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st8{fill:#47C3F1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st9{stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st10{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st11{fill:#11102E;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st12{fill:#FFFFFF;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st13{fill:#A1CFE2;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st14{fill:#FC7EE4;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st15{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:12;}
+    .st16{fill:url(#SVGID_1_);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    .st17{fill:#FFFFFF;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+  </style>
+  <switch>
+    <g>
+      <g class="object-print">
+        <line class="st10" x1="1018.108" y1="467.783" x2="1054.069" y2="490.751"/>
+        <polygon class="st8" points="895.009,643.764 959.42,684.903 1031.556,730.976 1168.102,643.764 1168.102,504.52      1031.556,417.308 895.009,504.52    "/>
+        <polygon class="st10" points="1168.102,505.495 1103.691,546.634 1031.556,592.707 1031.556,730.976 1103.691,684.903      1168.102,643.764    "/>
+        <pattern id="SVGID_1_" xlink:href="#New_Pattern" patternTransform="matrix(0.9116 0 0 0.9116 -389.0127 -314.5439)">
+        </pattern>
+        <polygon class="st16" points="1168.102,505.495 1103.691,546.634 1031.556,592.707 1031.556,730.976 1103.691,684.903      1168.102,643.764    "/>
+        <polygon class="st4" points="895.009,505.495 959.42,546.634 1031.556,592.707 1031.556,730.976 959.42,684.903 895.009,643.764         "/>
+        <polyline class="st17" points="1067.012,534.317 1029.55,510.39 996.099,489.025    "/>
+        <polygon class="st10" points="1067.012,534.317 1029.55,510.39 996.099,489.025 996.099,401.249 1029.55,422.614      1067.012,446.541    "/>
+        <g>
+          <line class="st10" x1="1020.82" y1="462.6" x2="1056.78" y2="485.568"/>
+          <ellipse cx="1010.744" cy="459.046" rx="4.413" ry="5.092"/>
+        </g>
+        <g>
+          <line class="st10" x1="1020.82" y1="484.604" x2="1056.78" y2="507.571"/>
+          <ellipse cx="1010.744" cy="481.05" rx="4.413" ry="5.092"/>
+        </g>
+        <g>
+          <line class="st10" x1="1020.82" y1="440.596" x2="1056.78" y2="463.564"/>
+          <ellipse cx="1010.744" cy="437.042" rx="4.413" ry="5.092"/>
+        </g>
+      </g>
+    </g>
+  </switch>
+</svg>
