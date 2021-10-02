@@ -45,16 +45,16 @@
     </a>
     <figure class="floating-object person" on:click={() => {location.replace('/contact')}}>
       <span>contact</span>
-      <img src="/assets/person.png" alt="person">
+      <img src="./assets/person.png" alt="person">
     </figure>
     <figure class="floating-object star" on:click={() => {console.log('star')}}>
-      <img src="/assets/star.png" alt="star">
+      <img src="./assets/star.png" alt="star">
     </figure>
     <figure class="floating-object plant" on:click={() => {console.log('plant')}}>
-      <img src="/assets/plant.png" alt="plant">
+      <img src="./assets/plant.png" alt="plant">
     </figure>
     <figure class="floating-object computer" on:click={() => {location.replace('/project')}}>
-      <img src="/assets/computer.png" alt="computer">
+      <img src="./assets/computer.png" alt="computer">
         <span>project</span>
     </figure>
   </div>
@@ -117,7 +117,7 @@
       width: 90vmin;
       height: 90vmin;
       transform-style: preserve-3d;
-      background: no-repeat url('/assets/real-earth.png') center/50%;
+      background: no-repeat url('./assets/real-earth.png') center/50%;
       border-radius: 50%;
 
       .floating-object {

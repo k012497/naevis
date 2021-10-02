@@ -22,7 +22,7 @@ main {
 
 section {
   height: 500%;
-  background: repeat url('/assets/glitter.gif');
+  background: repeat url('./assets/glitter.gif');
 }
 
 a {
