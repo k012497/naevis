@@ -1,0 +1,72 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1321.8 809.8"
+	 style="enable-background:new 0 0 1321.8 809.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#0F775E;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#FF0000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#EDE73B;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#47C3F1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#E0E0E0;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{enable-background:new    ;}
+	.st9{fill:#DD7800;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:#FFF2ED;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#11102E;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:url(#SVGID_1_);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:#FC7EE4;}
+	.st14{fill:#FC7EE4;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:none;stroke:#3C4E9B;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st19{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:12;}
+	.st20{fill:#FFFFFF;stroke:#11102E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{fill:url(#SVGID_2_);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{fill:url(#SVGID_6_);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<switch>
+	<g i:extraneous="self">
+		<g>
+			<g>
+				<ellipse class="st1" cx="1133.6" cy="189.2" rx="89.3" ry="58.3"/>
+				<circle class="st2" cx="1169.6" cy="216.7" r="17.4"/>
+				<circle class="st3" cx="1158.3" cy="176.3" r="7.8"/>
+				<circle class="st3" cx="1080.6" cy="157.3" r="7.8"/>
+				<circle class="st4" cx="1198.8" cy="173.4" r="8.7"/>
+				<circle class="st5" cx="1111" cy="226.6" r="11.1"/>
+				<path class="st6" d="M1133.2,131.2c0,0,107.6,45.9,0,116.1"/>
+				<circle class="st4" cx="1087.1" cy="188.5" r="15.1"/>
+				<circle class="st5" cx="1133.6" cy="157.3" r="9.9"/>
+				<path class="st6" d="M1133.2,131.2c0,0-107.6,45.9,0,116.1"/>
+				<line class="st6" x1="1133.2" y1="131.2" x2="1133.2" y2="247.3"/>
+				<line class="st6" x1="1044.4" y1="189.2" x2="1222.5" y2="189.2"/>
+				<path class="st5" d="M1185.3,149.5c3.1,0,5.8-1.6,7.3-4c-4.7-2.7-10-5.1-15.6-7.2c-0.2,0.8-0.4,1.6-0.4,2.5
+					C1176.6,145.6,1180.5,149.5,1185.3,149.5z"/>
+				<line class="st6" x1="1059" y1="157.2" x2="1207.9" y2="157.2"/>
+				<path class="st2" d="M1061.8,209.7c-3.7,0-6.9,1.7-9,4.5c4.2,5.7,9.7,11,16.5,15.6c2.4-2.1,4-5.2,4-8.6
+					C1073.3,214.8,1068.2,209.7,1061.8,209.7z"/>
+				<line class="st6" x1="1058.5" y1="221.1" x2="1208.4" y2="221.1"/>
+				<path class="st7" d="M1169.6,157.3"/>
+				<path class="st7" d="M1167.2,157"/>
+				<path class="st7" d="M1183.1,158.6"/>
+				<path class="st7" d="M1186.8,192.3"/>
+				<path class="st7" d="M1104,191.5"/>
+				<path class="st7" d="M1103,224.8"/>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>
