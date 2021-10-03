@@ -5,7 +5,7 @@
 <header>
     <nav>
       <ul>
-        <li on:click={goToHomeSection}>home</li>
+        <li on:click={goToHomeSection}>🏠</li>
       </ul>
     </nav>
 </header>

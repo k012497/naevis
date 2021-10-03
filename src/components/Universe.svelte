@@ -52,7 +52,7 @@
     transform-origin: top center;
     height: 100%;
     transition-property: transform, left;
-    transition-duration: .5s;
+    transition-duration: 1s;
     transition-timing-function: ease-in-out;
   }
 

@@ -74,21 +74,6 @@
     align-items: center;
     justify-content: center;
 
-    @keyframes floating {
-      0% {
-        transform: translateX(-5px) translateY(10px) translateZ(100px);
-      }
-      33% {
-        transform: translateX(5px) translateY(0px) translateZ(100px);
-      }
-      66% {
-        transform: translateX(-5px) translateY(10px) translateZ(100px);
-      }
-      100% {
-        transform: translateX(5deg) translateY(10px) translateZ(100px);
-      }
-    }
-
     @keyframes bubble-anim {
       0% {
         -webkit-transform: scale(1);
@@ -120,14 +105,11 @@
       width: 90vmin;
       height: 90vmin;
       transform-style: preserve-3d;
-      background: no-repeat url('/assets/real-earth.png') center/50%;
       border-radius: 50%;
 
       .floating-object {
-        animation: floating 5s ease-in-out infinite alternate;
         position: absolute;
         width: 40%;
-        cursor: pointer;
         transition: transform .8s ease-in-out;
         transform: translateZ(100px);
           text-shadow: 0 1px 0 #ccc,
