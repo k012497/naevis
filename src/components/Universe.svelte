@@ -43,7 +43,7 @@
         <div>WWW</div>
       </figure>
     </a>
-    <figure class="floating-object person" on:click={() => {location.replace('/contact')}}>
+    <figure class="floating-object person" on:click={() => {console.log('person')}}>
       <span>contact</span>
       <img src="./assets/person.png" alt="person">
     </figure>
@@ -53,7 +53,7 @@
     <figure class="floating-object plant" on:click={() => {console.log('plant')}}>
       <img src="./assets/plant.png" alt="plant">
     </figure>
-    <figure class="floating-object computer" on:click={() => {location.replace('/project')}}>
+    <figure class="floating-object computer" on:click={() => {console.log('project')}}>
       <img src="./assets/computer.png" alt="computer">
         <span>project</span>
     </figure>
@@ -65,7 +65,6 @@
     position: fixed;
     width: 100%;
     height: 100%;
-    /* background: black; */
     perspective: 1000px;
     display: flex;
     align-items: center;
