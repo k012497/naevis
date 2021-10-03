@@ -4,8 +4,4 @@
 </script>
 
 <!-- <Header /> -->
-<main>
-	<section>
-		<Universe />
-	</section>
-</main>
+<Universe />
