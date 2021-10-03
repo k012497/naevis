@@ -18,10 +18,6 @@ body {
 
 main {
   height: 100%;
-}
-
-section {
-  height: 500%;
   background: repeat url('./assets/glitter.gif');
 }
 
