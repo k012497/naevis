@@ -1,3 +1,8 @@
+@font-face {
+  font-family: arcade;
+  src: url('./assets/font/arcade.regular.ttf') format('truetype');
+}
+
 main {
   background: repeat url('./assets/glitter.gif');
 }
