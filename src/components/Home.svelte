@@ -149,21 +149,19 @@
           display: none;
           top: 40%;
           z-index: 2;
-          color: white;
+          color: $white;
           font-size: 5rem;
           font-weight: bold;
           text-align: center;
-          font-family: 'Roboto Slab', serif;
         }
 
         &.title {
-          top: 45%;
+          top: 35%;
           left: 45%;
           font-size: 8rem;
           font-family: serif;
-          font-family: 'Roboto Slab', serif;
           font-weight: 900;
-          color: aliceblue;
+          color: $white;
 
             &:hover {
               visibility: hidden;
@@ -175,6 +173,7 @@
                 position: absolute;
                 font-size: 6rem;
                 background-color: red;
+                font-family: 'Roboto Slab', serif;
                 border-radius: 1rem;
                 padding: 0.5rem 1.5rem 1.5rem 1.5rem;
                 top: 2px;
