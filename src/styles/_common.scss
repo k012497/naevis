@@ -10,11 +10,13 @@ body {
 }
 
 body {
+  background: black;
   color: #333;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'arcade';
-  // font-family: 'Montserrat', sans-serif;
+
+  font-family: 'Montserrat', sans-serif;
+  font-family: Copperplate, Copperplate Gothic, serif;
 }
 
 main {
@@ -72,6 +74,11 @@ button:not(:disabled):active {
 button:focus {
   border-color: #666;
 }
+
+ul {
+  padding: 0;
+}
+
 @keyframes floating {
   0% {
     transform: translateX(-5px) translateY(10px) translateZ(100px);

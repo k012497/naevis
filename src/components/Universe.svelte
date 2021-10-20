@@ -27,16 +27,16 @@
 <Header goToHomeSection={goToHomeSection}/>
 <main>
   <div class="container">
-    <section class="obj project">
+    <section class="section project">
       <Project />
     </section>
-    <section class="obj home">
+    <section class="section home">
       <Home 
         goToProjectSection={goToProjectSection}
         goToContactSection={goToContactSection}
       />
     </section>
-    <section class="obj contact">
+    <section class="section contact">
       <Contact />
     </section>
   </div>
@@ -56,7 +56,7 @@
     transition-timing-function: ease-in-out;
   }
 
-  .obj {
+  .section {
     width: 100vw;
     height: 100vh;
     position: absolute;
@@ -69,15 +69,16 @@
     }
     
     &.project {
+      top: -40%;
+      left: 95%;
       transform-origin: top left;
-      top: -33%;
-      left: 93%;
       transform: rotate(-30deg);
+      overflow-y: auto;
     }
   
     &.contact {
-      top: -33%;
-      left: -93%;
+      top: -40%;
+      left: -95%;
       transform-origin: top right;
       transform: rotate(30deg);
     }

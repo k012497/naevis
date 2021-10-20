@@ -110,6 +110,7 @@
       .floating-object {
         position: absolute;
         width: 40%;
+        font-family: 'arcade';
         transition: transform .8s ease-in-out;
         transform: translateZ(100px);
           text-shadow: 0 1px 0 #ccc,
