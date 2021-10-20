@@ -952,7 +952,7 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			img = element("img");
-    			if (!src_url_equal(img.src, img_src_value = `/assets/projects/${/*image*/ ctx[7]}.png`)) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = `./assets/projects/${/*image*/ ctx[7]}.png`)) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", img_alt_value = /*image*/ ctx[7]);
     			attr_dev(img, "class", "svelte-1sd4gpb");
     			add_location(img, file$2, 11, 4, 258);
@@ -961,7 +961,7 @@ var app = (function () {
     			insert_dev(target, img, anchor);
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*images*/ 4 && !src_url_equal(img.src, img_src_value = `/assets/projects/${/*image*/ ctx[7]}.png`)) {
+    			if (dirty & /*images*/ 4 && !src_url_equal(img.src, img_src_value = `./assets/projects/${/*image*/ ctx[7]}.png`)) {
     				attr_dev(img, "src", img_src_value);
     			}
 
@@ -996,7 +996,7 @@ var app = (function () {
     			div = element("div");
     			t = text(t_value);
     			attr_dev(div, "class", "tag svelte-1sd4gpb");
-    			add_location(div, file$2, 15, 2, 360);
+    			add_location(div, file$2, 15, 2, 361);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
