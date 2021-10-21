@@ -12,7 +12,7 @@
   />
   <ProjectItem 
     title="Blockly 기반 블록 코딩 플랫폼" 
-    desc="Blockly를 기반으로 한 스크래치, 엔트리 등의 블록 코딩 교육을 위한 웹 사이트 개발" 
+    desc="Scrath, Entry 등의 블록 코딩 오픈 소스를 기반으로 블록 코딩 교육을 위한 웹 사이트 개발" 
     tags={["react", "ts", "redux", "graphql", "apollo" ]}
     images={['blockplus.png', 'codesketch1.png', 'codesketch2.png']}
   />
@@ -24,7 +24,7 @@
   /> -->
   <ProjectItem 
     title="블록 코딩 응용 프로그램" 
-    desc="일렉트론 기반의 자체 블록 코딩 툴 MODI studio 유지보수 및 모듈 통신을 통한 자가진단 기능 개발" 
+    desc="자체 블록 코딩 프로그램 MODI Studio 유지보수 및 모듈 통신을 통한 자가진단 기능 개발" 
     tags={["electronjs", "cordova"]}
     images={['modistudio1.gif', 'modistudio2.png', 'modistudio3.png', 'modistudio4.png']}
   />
@@ -34,6 +34,7 @@
   .project-container {
     position: absolute;
     min-height: 90%;
+    padding-bottom: 2rem;
     top: 4rem;
     overflow-y: auto;
     scroll-behavior: smooth;
