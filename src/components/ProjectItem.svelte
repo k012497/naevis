@@ -11,7 +11,7 @@
   <!-- <div class="desc">{desc}</div> -->
   <div class="image">
     {#each images as image}
-    <img src={`./assets/projects/${image}.png`} alt={image}/>
+    <img src={`./assets/projects/${image}`} alt={image}/>
     {/each}
   </div>
   {#each tags as tag}

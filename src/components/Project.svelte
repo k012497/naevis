@@ -7,13 +7,13 @@
     title="웹 LMS 플랫폼" 
     desc="Codi AI, ALL THAT CODING"
     tags={["react", "ts", "nextjs", "graphql", "apollo"]}
-    images={['codiai1', 'codiai2', 'codiai3', 'allthatcoding']}
+    images={['codiai1.png', 'codiai2.png', 'codiai3.png', 'allthatcoding.png']}
   />
   <ProjectItem 
     title="Blockly 기반 블록 코딩 플랫폼" 
     desc="Code Sketch 코딩 화면(scratch), Block+ 코딩 화면 (scratch), 엔트리 커스텀 (?)" 
     tags={["react", "ts", "redux", "graphql", "apollo" ]}
-    images={['blockplus', 'codesketch1', 'codesketch2']}
+    images={['blockplus.png', 'codesketch1.png', 'codesketch2.png']}
   />
   <!-- <ProjectItem 
     title="디자인 시스템" 
@@ -25,7 +25,7 @@
     title="블록 코딩 응용 프로그램" 
     desc="MODI studio 유지보수 및 모듈 통신을 통한 모듈 진단" 
     tags={["electronjs", "cordova"]}
-    images={[]}
+    images={['modistudio1.gif', 'modistudio2.png', 'modistudio3.png', 'modistudio4.png']}
   />
 </div>
 
