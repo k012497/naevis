@@ -48,6 +48,8 @@
     &:hover .image{
       max-height: 60vh;
       transition: max-height 0.5s ease-in-out;
+      padding-bottom: 1rem;
+
     }
 
     .tag {

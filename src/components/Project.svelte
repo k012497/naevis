@@ -3,6 +3,7 @@
 </script>
 
 <div class="project-container">
+  <div class="project-title">⬇ touch me! ⬇ </div>
   <ProjectItem 
     title="웹 LMS 플랫폼" 
     desc="Codi AI, ALL THAT CODING"
@@ -40,5 +41,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    > .project-title {
+      text-align: center;
+      margin: 1rem;
+    }
   }
 </style>
