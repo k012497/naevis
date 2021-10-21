@@ -8,7 +8,7 @@
 
 <div class="project-item">
   <div class="title">{title}</div>
-  <!-- <div class="desc">{desc}</div> -->
+  <div class="desc">{desc}</div>
   <div class="image">
     {#each images as image}
     <img src={`./assets/projects/${image}`} alt={image}/>
