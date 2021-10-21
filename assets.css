@@ -8,5 +8,5 @@ main {
 }
 
 .universe-surface {
-  background: no-repeat url('/assets/real-earth.png') center/50%;
+  background: no-repeat url('./assets/real-earth.png') center/50%;
 }
