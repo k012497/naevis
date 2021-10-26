@@ -3,6 +3,7 @@
   import Header from './Header.svelte';
   import Home from './Home.svelte'
   import Project from './Project.svelte';
+  import Footer from './Footer.svelte';
   import { onMount, onDestroy } from 'svelte';
 
   let containerElem: HTMLElement;
@@ -41,6 +42,7 @@
     </section>
   </div>
 </main>
+<Footer />
 
 <style lang="scss">
 	main {

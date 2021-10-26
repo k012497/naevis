@@ -42,6 +42,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    /* font-family: 'Montserrat', sans-serif; */
 
     > .project-title {
       text-align: center;
